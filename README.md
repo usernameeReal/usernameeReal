@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on BetterVM
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on cool projects
+- 📫 How to reach me: usernameeReal@proton.me
+- ⚡ Fun fact: i exist
 <!--
 **usernameeReal/usernameeReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
