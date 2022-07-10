@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: usernameeReal@proton.me
 - ⚡ Fun fact: i exist
-- 📄 [My blog](http://178.79.132.43/blog/)
+- 📄 [My blog](http://usernamee.duckdns.org/blog/)
 <!--
 **usernameeReal/usernameeReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
