@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BetterVM
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: usernameeReal@proton.me
