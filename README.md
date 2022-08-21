@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: usernameeReal@proton.me
-- ⚡ Fun fact: i exist
+- ⚡ Fun fact: i hate anthropomorphic animal characters 
 - 📄 [My blog](http://usernamee.duckdns.org/blog/)
 <!--
 **usernameeReal/usernameeReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
